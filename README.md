@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @slimanelatreche, a PhD in physics who wants to discover the Data Science world.
-- 👀 I’m interested in Data scraping, Data visualization and Business Intelligence
-- 🌱 I’m currently learning Data Visualization
+- 👋 Hi, I’m @slimanelatreche, I want to discover the Data Science world.
+- 👀 I’m interested in Data Scraping, Data visualization, and Business Intelligence
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on any project using Python.
 - 📫 How to reach me: slimane.latreche@gmail.com
 
